@@ -1,0 +1,8 @@
+This repository contains all the necessary material to replicate our results in the manuscript entitled:
+"Calibration, Selection and Identifiability Analysis of a Mathematical Model of the in vitro Erythropoiesis in Normal and Perturbed Contexts".
+
+The ./scripts folder contains python libraries (.py) and jupyter notebooks (.ipynb). The libraries encode all the functions necessary to our computations. The notebooks apply them to our data and replicate the figures of the paper. All pieces of this code have been developped on linux (Ubuntu 16.04) and MacOS platforms, so they probably won't work on windows.
+
+The ./data folder contains the raw cell counts used for the study, as well as the results of all our notebooks (in one directory per notebook)
+
+The ./figures folder contains one empty folder per jupyter notebook, which will contain its .pdf figures after execution of the notebook.
