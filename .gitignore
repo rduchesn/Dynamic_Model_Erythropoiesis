@@ -1,5 +1,3 @@
-#binary images
-*.pdf
 #python related stuff
 __pycachz__/
 *.py[cod]
