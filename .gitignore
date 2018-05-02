@@ -1,0 +1,24 @@
+#binary images
+*.pdf
+#python related stuff
+__pycachz__/
+*.py[cod]
+*$py.class
+
+#jupyter related stuff
+.ipynb_checkpoints
+
+#R related stuff
+.Rhistory
+.Rapp.history
+.RData
+
+#vim related stuff
+*.swp
+
+#Linux stuff
+*~
+
+#MacOS stuff:
+.DS_store
+._*
